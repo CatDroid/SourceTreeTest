@@ -5,7 +5,7 @@ void func(int& inout){
 }
 
 void funcBranch(int & inout){
-	inout=inout-1 ;
+	inout=inout/2 ;
 }
 
 int main(){
