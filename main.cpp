@@ -5,7 +5,7 @@ void func(int& inout){
 }
 
 int main(){
-	int i = 2 ;
+	int i = 4 ;
 	func(i);
 	printf("ok %d\n",i );
 
