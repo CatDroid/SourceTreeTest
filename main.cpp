@@ -5,6 +5,7 @@ void func(int& inout){
 }
 
 void funcBranch(int & inout){
+	// keep Stash and keep Stage
 	inout=inout/2 ;
 }
 
